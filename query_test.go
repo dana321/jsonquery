@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/antchfx/xpath"
+	"github.com/dana321/xpath"
 )
 
 func TestNavigator(t *testing.T) {
